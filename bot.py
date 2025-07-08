@@ -10,6 +10,7 @@ from datetime import datetime
 import json
 import io
 import os
+import base64
 
 # === Admin ID-lar ===
 ADMIN_IDS = [1483283523, 838372282, 8053276571]  # Bu yerga o'z Telegram ID'ingizni yozing
